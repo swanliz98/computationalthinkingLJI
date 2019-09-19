@@ -20,21 +20,21 @@ counter = 0
 while counter < years:
     total_owed = (loan_per_year + total_owed)*(1+ interest_rate)
     counter += 1
-print("Total amount owed at graduation:", total_owed)
+print("Total amount owed at graduation:", '${:,.2f}'.format(total_owed))
 
 '''
 Part B - Determine if monthly payment is feasible
 '''
 
-monthly_payment = float(input("Enter a monthly payment goal "))
+monthly_payment = float(input("Enter a monthly payment goal: "))
 monthly_interest = float((interest_rate/12)*total_owed)
 
 if monthly_payment < monthly_interest:
     print(f"A monthly payment of {monthly_payment} won't work! You'll be paying off your loans forever.")
-	else: 
+else: 
     print(f"A monthly payment of {monthly_payment} will work!")
 	
-print("The minimum monthly payment for this loan would be " + monthly_interest + "dollars.")
+print("The minimum monthly payment for this loan would be " + '{:.2f}'.format(monthly_interest) + " dollars.")
 
 '''
 Part C - Determine how long it will take to pay off your student loans

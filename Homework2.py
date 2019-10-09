@@ -4,7 +4,6 @@ Created on Fri Oct  4 14:02:09 2019
 
 @author: Jessica Tse, Liz Swanson, Issac Perrilles
 """
-"""
 import random
 
 def dicegame(numsim):
@@ -32,7 +31,9 @@ def dicegame(numsim):
     return averagewon and maxwon
 
 dicegame(6)
-"""
+
+'''
 x = [9,0,7]
 y = [0,9,8]
 x.extend(y)
+'''

@@ -1,0 +1,63 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Dec  5 11:45:50 2019
+
+@author: swanliz98
+"""
+
+
+import pandas as pd
+
+thirdDownConversions = pd.read_csv('national_team-2018-3rdDownConversions.csv')
+fourthDownConversions = pd.read_csv('national_team-2018-4thDownConversions.csv')
+fieldGoals = pd.read_csv('national_team-2018-FieldGoals.csv')
+firstDowns = pd.read_csv('national_team-2018-FirstDowns.csv')
+fumblesForced = pd.read_csv('national_team-2018-FumblesForced.csv')
+fumblesLost = pd.read_csv('national_team-2018-FumblesLost.csv')
+fumblesRecovered = pd.read_csv('national_team-2018-FumblesRecovered.csv')
+interceptions = pd.read_csv('national_team-2018-Interceptions.csv')
+kickoffReturns = pd.read_csv('national_team-2018-KickoffReturns.csv')
+kickoffs = pd.read_csv('national_team-2018-Kickoffs.csv')
+kicksPuntsBlocked = pd.read_csv('national_team-2018-KicksPuntsBlocked.csv')
+longKickoffReturnPlays = pd.read_csv('national_team-2018-LongKickoffReturnPlays.csv')
+longPassingPlays = pd.read_csv('national_team-2018-LongPassingPlays.csv')
+longPuntReturnPlays = pd.read_csv('national_team-2018-LongPuntReturnPlays.csv')
+longRushingPlays = pd.read_csv('national_team-2018-LongRushingPlays.csv')
+longScrimmagePlays = pd.read_csv('national_team-2018-LongScrimmagePlays.csv')
+opponent3rdDownConversions = pd.read_csv('national_team-2018-Opponent3rdDownConversions.csv')
+opponent4thDownConversions = pd.read_csv('national_team-2018-Opponent4thDownConversions.csv')
+opponentFieldGoals = pd.read_csv('national_team-2018-OpponentFieldGoals.csv')
+opponentFirstDowns = pd.read_csv('national_team-2018-OpponentFirstDowns.csv')
+opponentKickoffReturns = pd.read_csv('national_team-2018-OpponentKickoffReturns.csv')
+opponentKickoffs = pd.read_csv('national_team-2018-OpponentKickoffs.csv')
+opponentLongKickoffReturnPlays = pd.read_csv('national_team-2018-OpponentLongKickoffReturnPlays.csv')
+opponentLongPassingPlays = pd.read_csv('national_team-2018-OpponentLongPassingPlays.csv')
+opponentLongPuntReturnPlays = pd.read_csv('national_team-2018-OpponentLongPuntReturnPlays.csv')
+opponentLongRushingPlays = pd.read_csv('national_team-2018-OpponentLongRushingPlays.csv')
+opponentLongScrimmagePlays = pd.read_csv('national_team-2018-OpponentLongScrimmagePlays.csv')
+opponentPATKicking = pd.read_csv('national_team-2018-OpponentPATKicking.csv')
+opponentPenalties = pd.read_csv('national_team-2018-OpponentPenalties.csv')
+opponentPunting = pd.read_csv('national_team-2018-OpponentPunting.csv')
+opponentPuntReturns = pd.read_csv('national_team-2018-OpponentPuntReturns.csv')
+opponentRedZoneConversions = pd.read_csv('national_team-2018-OpponentRedZoneConversions.csv')
+passesDefended = pd.read_csv('national_team-2018-PassesDefended.csv')
+passingDefense = pd.read_csv('national_team-2018-PassingDefense.csv')
+passingOffense = pd.read_csv('national_team-2018-PassingOffense.csv')
+pATKicking = pd.read_csv('national_team-2018-PATKicking.csv')
+penalties = pd.read_csv('national_team-2018-Penalties.csv')
+punting = pd.read_csv('national_team-2018-Punting.csv')
+puntReturns = pd.read_csv('national_team-2018-PuntReturns.csv')
+redZoneConversions = pd.read_csv('national_team-2018-RedZoneConversions.csv')
+rushingDefense = pd.read_csv('national_team-2018-RushingDefense.csv')
+rushingOffense = pd.read_csv('national_team-2018-RushingOffense.csv')
+sacks = pd.read_csv('national_team-2018-Sacks.csv')
+sacksAllowed = pd.read_csv('national_team-2018-SacksAllowed.csv')
+scoringDefense = pd.read_csv('national_team-2018-ScoringDefense.csv')
+scoringOffense = pd.read_csv('national_team-2018-ScoringOffense.csv')
+tacklesForLoss = pd.read_csv('national_team-2018-TacklesForLoss.csv')
+tacklesForLossAllowed = pd.read_csv('national_team-2018-TacklesForLossAllowed.csv')
+timeOfPossession = pd.read_csv('national_team-2018-TimeOfPossession.csv')
+totalDefense = pd.read_csv('national_team-2018-TotalDefense.csv')
+totalOffense = pd.read_csv('national_team-2018-TotalOffense.csv')
+turnoverMargin = pd.read_csv('national_team-2018-TurnoverMargin.csv')

@@ -10,6 +10,17 @@ def startFootball():
     else:
         sFcompstats2(data)
     
+# another idea for a starting function.
+def cfbStatsTool():
+    print("Welcome to the College Football Statistics tool.")
+    print("You can run three statistical tests on CFB data from the 2018-2019 season.")
+    print("overallstats() shows you the description of all teams performance.")
+    print("compstats1() shows you one team compared to the performance of all teams.")
+    print("compstats2() shows you two teams compared to each other and the performance of all other teams.")
+    
+cfbStatsTool()
+    
+    
     ###### EDITED THREE FUNCTIONS TO HAVE DATA AS AN INPUT #######
         
         # ANOHTER WAY TO DO IT WOULD BE THAT IT CREATES A NEW FILE?

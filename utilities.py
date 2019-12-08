@@ -1,3 +1,21 @@
+thirdDownConversions = pd.read_csv('3rdDownConversions.csv')
+redZoneConversions = pd.read_csv('RedZoneConversions.csv')
+firstDowns = pd.read_csv('FirstDowns.csv')
+scoringDefense = pd.read_csv('ScoringDefense.csv')
+totalDefense = pd.read_csv('TotalDefense.csv')
+totalOffense = pd.read_csv('TotalOffense.csv')
+dfs = [redZoneConversions, firstDowns, scoringDefense, totalDefense, totalOffense]
+
+
+
+def createDf():
+    maindf = pd.DataFrame(thirdDownConversions)
+    for df in dfs:
+        maindf = pd.merge(maindf, df, on = 'Name')
+    return maindf
+
+print(createDf())
+
 ######## IDEA FOR STARTING FUNCTION #######
 
 def startFootball():

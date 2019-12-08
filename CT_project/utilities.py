@@ -7,7 +7,7 @@ def StartFootball():
     totalDefense = pd.read_csv('Sample Data/TotalDefense.csv')
     totalOffense = pd.read_csv('Sample Data/TotalOffense.csv')
     dfs = [redZoneConversions, firstDowns, scoringDefense, totalDefense, totalOffense]
-    model = input("What model do you want to run? [Overall, One Team, Two Team]: ")
+    model = input("What model do you want to run? [Overall, One Team, Two Teams]: ")
     if model == "Overall":
         sFoverallstats(thirdDownConversions)
         sFoverallstats(firstDowns)
@@ -23,7 +23,7 @@ def StartFootball():
         sFcompstats1(scoringDefense,team1)
         sFcompstats1(totalDefense,team1)
         sFcompstats1(totalOffense,team1)
-    elif model == "Two Team":
+    elif model == "Two Teams":
         team1 = input("What is the first team you would like to compare? ")
         team2 = input("What is the second team you would like to compare? ")
         sFcompstats2(thirdDownConversions,team1,team2)
@@ -38,9 +38,9 @@ def StartFootball():
 def cfbStatsTool():
     print("Welcome to the College Football Statistics tool.")
     print("You can run three statistical tests on CFB data from the 2018-2019 season.")
-    print("overallstats() shows you the description of all teams performance.")
-    print("compstats1() shows you one team compared to the performance of all teams.")
-    print("compstats2() shows you two teams compared to each other and the performance of all other teams.")
+    print("'Overall' shows you the description of all teams performance.")
+    print("'One Team' shows you one team compared to the performance of all teams.")
+    print("'Two Teams' shows you two teams compared to each other and the performance of all other teams.")
     StartFootball()
     
 def sFcompstats2(data,team1,team2):

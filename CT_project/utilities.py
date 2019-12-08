@@ -1,3 +1,25 @@
+'''
+College Football Stats Project
+
+By: Liz Swanson, Jessica Tse, and Isaac Perrilles
+
+cfbStatsTool() prints instructions for user
+StartFootball() is the actual function that pulls the info from the CSV files and calls a specific function according to the input
+sFoverallstats() calls all the football stats for every team
+sFcompstats1() calls the specified team's stats, lists them at the top, then displays the others' below
+sFcompstats2() calls the two specified teams' stats, lists them at the top, then displays the others' below
+'''
+
+
+def cfbStatsTool():
+    print("Welcome to the College Football Statistics tool.")
+    print("You can run three statistical tests on CFB data from the 2018-2019 season.")
+    print("'Overall' shows you the description of all teams performance.")
+    print("'One Team' shows you one team compared to the performance of all teams.")
+    print("'Two Teams' shows you two teams compared to each other and the performance of all other teams.")
+    StartFootball()
+    
+
 def StartFootball():
     import pandas as pd
     thirdDownConversions = pd.read_csv('Sample Data/3rdDownConversions.csv')
@@ -35,13 +57,20 @@ def StartFootball():
     else:
         print("Invalid Input - Please start again")
 
-def cfbStatsTool():
-    print("Welcome to the College Football Statistics tool.")
-    print("You can run three statistical tests on CFB data from the 2018-2019 season.")
-    print("'Overall' shows you the description of all teams performance.")
-    print("'One Team' shows you one team compared to the performance of all teams.")
-    print("'Two Teams' shows you two teams compared to each other and the performance of all other teams.")
-    StartFootball()
+
+def sFoverallstats(data):
+    data_fil2 = data.drop([data.columns[0], data.columns[1], data.columns[2]], axis='columns')
+    d_desc = data_fil2.describe()
+    print(d_desc)
+    return(d_desc)
+
+def sFcompstats1(data,team1):
+    data_fil = data.drop([data.columns[0]], axis='columns')
+    data_fil2 = data.drop([data.columns[0], data.columns[1], data.columns[2]],  axis='columns')
+    d_one = data_fil[data_fil['Name']==team1]
+    d_desc = data_fil2.describe()
+    print (d_one,d_desc)
+    return(d_one,d_desc)
     
 def sFcompstats2(data,team1,team2):
     data_fil = data.drop([data.columns[0]], axis='columns')
@@ -51,19 +80,3 @@ def sFcompstats2(data,team1,team2):
     d_desc = data_fil2.describe()
     print (d_one,d_two,d_desc)
     return (d_one,d_two,d_desc)
-
-
-def sFcompstats1(data,team1):
-    data_fil = data.drop([data.columns[0]], axis='columns')
-    data_fil2 = data.drop([data.columns[0], data.columns[1], data.columns[2]],  axis='columns')
-    d_one = data_fil[data_fil['Name']==team1]
-    d_desc = data_fil2.describe()
-    print (d_one,d_desc)
-    return(d_one,d_desc)
-
-
-def sFoverallstats(data):
-    data_fil2 = data.drop([data.columns[0], data.columns[1], data.columns[2]], axis='columns')
-    d_desc = data_fil2.describe()
-    print(d_desc)
-    return(d_desc)

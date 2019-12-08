@@ -6,6 +6,17 @@ Created on Tue Nov 26 10:56:38 2019
 @author: swanliz98
 """
 
+##########
+tdc = thirdDownConversions.drop([thirdDownConversions.columns[0], thirdDownConversions.columns[1]], axis='columns')
+fstd = firstDowns.drop([firstDowns.columns[0], firstDowns.columns[1]], axis='columns')
+rzc = redZoneConversions.drop([redZoneConversions.columns[0], redZoneConversions.columns[1]], axis='columns')
+scod = scoringDefense.drop([scoringDefense.columns[0], scoringDefense.columns[1]], axis='columns')
+totd = totalDefense.drop([totalDefense.columns[0], totalDefense.columns[1]], axis='columns')
+toto = totalOffense.drop([totalOffense.columns[0], totalOffense.columns[1]], axis='columns')
+############
+
+
+
 
 import pandas as pd
 import matplotlib.pyplot as plt

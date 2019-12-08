@@ -107,3 +107,58 @@ def overallstats(data):
     
 
 
+######## UPDATED START FOOTBALL #########
+def startFootball():
+    model = input("What model do you want to run? [Overall, One Team, Two Team Comparison]: ")
+    if model == "Overall":
+        sFoverallstats(thirdDownConversions)
+        sFoverallstats(firstDowns)
+        sFoverallstats(redZoneConversions)
+        sFoverallstats(scoringDefense)
+        sFoverallstats(totalDefense)
+        sFoverallstats(totalOffense)
+    elif model == "One Team":
+        team1 = input("What team would you like to compare? ")
+        sFcompstats1(thirdDownConversions,team1)
+        sFcompstats1(firstDowns,team1)
+        sFcompstats1(redZoneConversions,team1)
+        sFcompstats1(scoringDefense,team1)
+        sFcompstats1(totalDefense,team1)
+        sFcompstats1(totalOffense,team1)
+    else:
+        team1 = input("What is the first team you would like to compare? ")
+        team2 = input("What is the second team you would like to compare? ")
+        sFcompstats2(thirdDownConversions,team1,team2)
+        sFcompstats2(firstDowns,team1,team2)
+        sFcompstats2(redZoneConversions,team1,team2)
+        sFcompstats2(scoringDefense,team1,team2)
+        sFcompstats2(totalDefense,team1,team2)
+        sFcompstats2(totalOffense,team1,team2)
+        
+        
+######## UPDATED SF THREE FUNCTIONS ###############
+
+
+
+def sFcompstats2(data,team1,team2):
+    data_fil = data.drop([data.columns[0]], axis='columns')
+    data_fil2 = data.drop([data.columns[0], data.columns[1], data.columns[2]],  axis='columns')
+    d_one = data_fil[data_fil['Name']==team1]
+    d_two = data_fil[data_fil['Name']==team2]
+    d_desc = data_fil2.describe()
+    return (d_one,d_two,d_desc)
+
+
+def sFcompstats1(data,team1):
+    data_fil = data.drop([data.columns[0]], axis='columns')
+    data_fil2 = data.drop([data.columns[0], data.columns[1], data.columns[2]],  axis='columns')
+    d_one = data_fil[data_fil['Name']==team1]
+    d_desc = data_fil2.describe()
+    return(d_one,d_desc)
+
+
+def sFoverallstats(data):
+    data_fil2 = data.drop([data.columns[0], data.columns[1], data.columns[2]], axis='columns')
+    d_desc = data_fil2.describe()
+    return(d_desc)
+    

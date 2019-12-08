@@ -1,0 +1,131 @@
+,Rank,Name,G,Int.,Passes Broken Up,Passes Defended,Passes Defended/G
+0,1,Nebraska,4,6,27,33,8.25
+1,1,UCF,4,2,31,33,8.25
+2,3,Oregon,4,6,22,28,7.00
+3,3,Wyoming,4,3,25,28,7.00
+4,5,LSU,4,2,25,27,6.75
+5,6,Syracuse,4,6,20,26,6.50
+6,7,Louisiana-Lafayette,4,4,21,25,6.25
+7,7,California,4,2,23,25,6.25
+8,9,Michigan State,4,6,18,24,6.00
+9,9,Missouri,4,5,19,24,6.00
+10,9,Tulane,4,5,19,24,6.00
+11,9,Arkansas,4,4,20,24,6.00
+12,9,North Carolina State,4,3,21,24,6.00
+13,9,Hawai'i,4,3,21,24,6.00
+14,15,Kentucky,4,5,18,23,5.75
+15,15,Mississippi State,4,4,19,23,5.75
+16,15,San Diego State,4,3,20,23,5.75
+17,15,SMU,4,3,20,23,5.75
+18,15,USC,4,2,21,23,5.75
+19,20,Arizona,3,8,14,22,7.33
+20,20,Florida,4,7,15,22,5.50
+21,20,Mississippi,4,5,17,22,5.50
+22,20,Texas,4,5,17,22,5.50
+23,20,Pittsburgh,4,2,20,22,5.50
+24,25,Utah State,3,2,19,21,7.00
+25,25,Tennessee,4,6,15,21,5.25
+26,25,Clemson,4,5,16,21,5.25
+27,25,Texas State,4,5,16,21,5.25
+28,25,Georgia,4,4,17,21,5.25
+29,25,Ohio State,4,4,17,21,5.25
+30,25,West Virginia,4,2,19,21,5.25
+31,32,TCU,3,5,15,20,6.67
+32,32,Wisconsin,3,5,15,20,6.67
+33,32,Fresno State,3,2,18,20,6.67
+34,32,Iowa State,3,2,18,20,6.67
+35,32,Wake Forest,4,3,17,20,5.00
+36,32,Tulsa,4,1,19,20,5.00
+37,38,Georgia Southern,3,2,17,19,6.33
+38,38,Ball State,4,6,13,19,4.75
+39,38,South Carolina,4,4,15,19,4.75
+40,38,Virginia,4,4,15,19,4.75
+41,38,Louisiana Tech,4,2,17,19,4.75
+42,38,Arizona State,4,1,18,19,4.75
+43,44,San Jose State,3,7,11,18,6.00
+44,44,Utah,4,5,13,18,4.50
+45,44,Oklahoma State,4,3,15,18,4.50
+46,44,UCLA,4,3,15,18,4.50
+47,44,North Texas,4,2,16,18,4.50
+48,49,Boston College,4,7,10,17,4.25
+49,49,Eastern Michigan,4,5,12,17,4.25
+50,49,Washington,4,4,13,17,4.25
+51,49,Western Michigan,4,3,14,17,4.25
+52,49,Miami (Florida),4,3,14,17,4.25
+53,54,Purdue,3,2,14,16,5.33
+54,54,BYU,4,5,11,16,4.00
+55,54,Florida State,4,4,12,16,4.00
+56,54,Liberty,4,4,12,16,4.00
+57,54,East Carolina,4,3,13,16,4.00
+58,54,Kansas,4,2,14,16,4.00
+59,54,Ohio,4,1,15,16,4.00
+60,54,Colorado State,4,0,16,16,4.00
+61,62,Notre Dame,3,3,12,15,5.00
+62,62,Minnesota,3,3,12,15,5.00
+63,62,Penn State,3,2,13,15,5.00
+64,62,North Carolina,4,4,11,15,3.75
+65,62,Arkansas State,4,3,12,15,3.75
+66,62,Illinois,4,3,12,15,3.75
+67,68,Kansas State,3,3,11,14,4.67
+68,68,Iowa,3,3,11,14,4.67
+69,68,Toledo,3,3,11,14,4.67
+70,68,Nevada,4,6,8,14,3.50
+71,68,Alabama,4,5,9,14,3.50
+72,68,Texas A&M,4,5,9,14,3.50
+73,68,Georgia State,4,2,12,14,3.50
+74,68,Akron,4,2,12,14,3.50
+75,68,Louisville,4,0,14,14,3.50
+76,77,Middle Tennessee,3,2,11,13,4.33
+77,77,Old Dominion,3,2,11,13,4.33
+78,77,Northwestern,3,1,12,13,4.33
+79,77,Florida International,4,4,9,13,3.25
+80,77,Miami (Ohio),4,3,10,13,3.25
+81,77,New Mexico State,4,2,11,13,3.25
+82,77,Charlotte,4,2,11,13,3.25
+83,77,Auburn,4,1,12,13,3.25
+84,77,Central Michigan,4,1,12,13,3.25
+85,86,South Florida,3,4,8,12,4.00
+86,86,Memphis,3,2,10,12,4.00
+87,86,Vanderbilt,3,2,10,12,4.00
+88,86,UNLV,3,1,11,12,4.00
+89,86,Baylor,3,1,11,12,4.00
+90,86,Coastal Carolina,4,5,7,12,3.00
+91,86,Buffalo,4,3,9,12,3.00
+92,86,Houston,4,2,10,12,3.00
+93,86,Indiana,4,2,10,12,3.00
+94,95,Louisiana-Monroe,3,4,7,11,3.67
+95,95,Oklahoma,3,4,7,11,3.67
+96,95,Marshall,3,2,9,11,3.67
+97,95,UTEP,3,2,9,11,3.67
+98,95,UAB,3,1,10,11,3.67
+99,100,Georgia Tech,3,3,7,10,3.33
+100,100,Rutgers,3,2,8,10,3.33
+101,100,South Alabama,4,5,5,10,2.50
+102,100,Colorado,4,5,5,10,2.50
+103,100,Army,4,4,6,10,2.50
+104,100,Washington State,4,3,7,10,2.50
+105,106,Navy,2,1,8,9,4.50
+106,106,Appalachian State,3,3,6,9,3.00
+107,106,Virginia Tech,3,2,7,9,3.00
+108,106,Air Force,3,2,7,9,3.00
+109,106,Temple,3,2,7,9,3.00
+110,106,Texas Tech,3,2,7,9,3.00
+111,106,Massachusetts,4,4,5,9,2.25
+112,106,Stanford,4,2,7,9,2.25
+113,106,Southern Mississippi,4,2,7,9,2.25
+114,106,Bowling Green,4,1,8,9,2.25
+115,106,Rice,4,0,9,9,2.25
+116,117,Michigan,3,2,6,8,2.67
+117,117,Cincinnati,3,2,6,8,2.67
+118,117,Maryland,3,2,6,8,2.67
+119,117,Duke,3,0,8,8,2.67
+120,117,Kent State,4,3,5,8,2.00
+121,122,New Mexico,3,1,6,7,2.33
+122,122,Florida Atlantic,4,2,5,7,1.75
+123,122,Boise State,4,2,5,7,1.75
+124,122,UTSA,4,1,6,7,1.75
+125,126,Oregon State,3,2,4,6,2.00
+126,126,Connecticut,3,2,4,6,2.00
+127,126,Northern Illinois,3,1,5,6,2.00
+128,129,Troy,3,1,4,5,1.67
+129,130,Western Kentucky,3,0,4,4,1.33

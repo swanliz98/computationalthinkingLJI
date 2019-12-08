@@ -1,0 +1,126 @@
+,Rank,Name,G,Opponent Fumbles,Fumbles Recovered,Fumble Recovery %
+0,1,Middle Tennessee,13,30,18,60.00
+1,1,Houston,13,26,18,69.23
+2,1,Ball State,13,20,18,90.00
+3,4,Texas,13,30,16,53.33
+4,4,West Virginia,12,27,16,59.26
+5,4,North Texas,13,25,16,64.00
+6,4,Tulane,13,24,16,66.67
+7,8,Hawai'i,12,25,15,60.00
+8,8,Buffalo,13,22,15,68.18
+9,10,Washington State,13,25,14,56.00
+10,10,South Florida,12,22,14,63.64
+11,12,Utah State,14,25,13,52.00
+12,12,Utah,12,25,13,52.00
+13,12,Iowa State,12,25,13,52.00
+14,12,Southern Mississippi,12,24,13,54.17
+15,12,Bowling Green,14,18,13,72.22
+16,17,Vanderbilt,13,33,12,36.36
+17,17,Colorado State,14,27,12,44.44
+18,17,Oklahoma State,13,26,12,46.15
+19,17,UCLA,13,26,12,46.15
+20,17,Clemson,13,24,12,50.00
+21,17,Toledo,12,23,12,52.17
+22,17,Oregon,13,22,12,54.55
+23,17,Arizona State,14,22,12,54.55
+24,17,Kentucky,12,22,12,54.55
+25,17,UCF,13,21,12,57.14
+26,17,Rice,14,19,12,63.16
+27,17,Missouri,14,18,12,66.67
+28,17,South Carolina,13,17,12,70.59
+29,30,Louisville,13,23,11,47.83
+30,30,Texas Tech,13,23,11,47.83
+31,30,Michigan State,14,22,11,50.00
+32,30,Virginia,12,21,11,52.38
+33,30,Boston College,13,21,11,52.38
+34,30,Western Michigan,12,21,11,52.38
+35,30,Colorado,12,20,11,55.00
+36,30,Wisconsin,13,20,11,55.00
+37,30,Wyoming,12,20,11,55.00
+38,30,Northern Illinois,14,19,11,57.89
+39,30,Tennessee,12,19,11,57.89
+40,30,Connecticut,12,19,11,57.89
+41,30,Arkansas State,13,19,11,57.89
+42,30,San Diego State,13,18,11,61.11
+43,30,Boise State,13,18,11,61.11
+44,30,Mississippi State,13,17,11,64.71
+45,30,Massachusetts,12,15,11,73.33
+46,47,Baylor,13,27,10,37.04
+47,47,Rutgers,13,23,10,43.48
+48,47,Indiana,12,22,10,45.45
+49,47,Oregon State,13,21,10,47.62
+50,47,Army,12,19,10,52.63
+51,47,Kansas,12,18,10,55.56
+52,47,New Mexico State,12,17,10,58.82
+53,47,BYU,13,17,10,58.82
+54,47,Maryland,13,17,10,58.82
+55,47,Temple,12,12,10,83.33
+56,57,UNLV,13,22,9,40.91
+57,57,Syracuse,13,22,9,40.91
+58,57,Wake Forest,12,21,9,42.86
+59,57,TCU,12,20,9,45.00
+60,57,Mississippi,13,19,9,47.37
+61,57,Louisiana-Lafayette,13,19,9,47.37
+62,57,Navy,13,18,9,50.00
+63,57,North Carolina State,12,17,9,52.94
+64,57,Florida State,14,17,9,52.94
+65,57,UTEP,12,17,9,52.94
+66,57,Minnesota,13,17,9,52.94
+67,57,Miami (Florida),13,17,9,52.94
+68,57,Fresno State,13,16,9,56.25
+69,57,Idaho,12,15,9,60.00
+70,57,Georgia State,12,15,9,60.00
+71,57,Michigan,13,15,9,60.00
+72,57,Oklahoma,13,14,9,64.29
+73,57,Tulsa,12,14,9,64.29
+74,57,Miami (Ohio),12,12,9,75.00
+75,76,LSU,13,22,8,36.36
+76,76,Pittsburgh,13,22,8,36.36
+77,76,Alabama,13,20,8,40.00
+78,76,Central Michigan,12,20,8,40.00
+79,76,North Carolina,13,20,8,40.00
+80,76,Kansas State,13,18,8,44.44
+81,76,Georgia,13,18,8,44.44
+82,76,Cincinnati,13,18,8,44.44
+83,76,Ohio State,14,17,8,47.06
+84,76,Iowa,13,17,8,47.06
+85,76,Nevada,12,16,8,50.00
+86,76,Louisiana Tech,12,15,8,53.33
+87,76,Ohio,13,15,8,53.33
+88,76,California,12,15,8,53.33
+89,76,Duke,14,15,8,53.33
+90,76,Illinois,12,15,8,53.33
+91,76,Marshall,14,14,8,57.14
+92,76,Florida,12,13,8,61.54
+93,76,Texas State,12,13,8,61.54
+94,95,Virginia Tech,13,21,7,33.33
+95,95,UAB,12,17,7,41.18
+96,95,Washington,13,17,7,41.18
+97,95,Western Kentucky,12,17,7,41.18
+98,95,Penn State,12,17,7,41.18
+99,95,South Alabama,12,13,7,53.85
+100,95,Memphis,12,12,7,58.33
+101,95,Purdue,12,10,7,70.00
+102,103,SMU,12,21,6,28.57
+103,103,Stanford,14,20,6,30.00
+104,103,Akron,12,19,6,31.58
+105,103,Louisiana-Monroe,12,19,6,31.58
+106,103,Georgia Tech,13,17,6,35.29
+107,103,New Mexico,12,16,6,37.50
+108,103,USC,14,16,6,37.50
+109,103,Auburn,14,16,6,37.50
+110,103,Florida International,12,14,6,42.86
+111,103,Florida Atlantic,12,13,6,46.15
+112,103,Arkansas,12,12,6,50.00
+113,103,East Carolina,13,11,6,54.55
+114,103,UTSA,12,10,6,60.00
+115,116,Troy,12,24,5,20.83
+116,116,Air Force,12,15,5,33.33
+117,116,Texas A&M,13,13,5,38.46
+118,116,San Jose State,12,12,5,41.67
+119,120,Nebraska,13,18,4,22.22
+120,120,Arizona,13,12,4,33.33
+121,120,Notre Dame,13,12,4,33.33
+122,120,Kent State,12,12,4,33.33
+123,120,Northwestern,12,11,4,36.36
+124,120,Eastern Michigan,12,9,4,44.44

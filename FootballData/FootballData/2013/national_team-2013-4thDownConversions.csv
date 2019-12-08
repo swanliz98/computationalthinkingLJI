@@ -1,0 +1,126 @@
+,Rank,Name,G,Attempts,Conversions,Conversion %
+0,1,Wake Forest,12,12,10,83.33
+1,2,Vanderbilt,13,28,22,78.57
+2,3,Rutgers,13,27,21,77.78
+3,4,UTSA,12,13,10,76.92
+4,5,Florida State,14,4,3,75.00
+5,6,East Carolina,13,17,12,70.59
+6,7,South Carolina,13,30,21,70.00
+7,7,Minnesota,13,20,14,70.00
+8,9,Duke,14,23,16,69.57
+9,10,Oklahoma,13,16,11,68.75
+10,11,Iowa State,12,19,13,68.42
+11,12,Navy,13,28,19,67.86
+12,13,Northern Illinois,14,21,14,66.67
+13,13,North Carolina,13,21,14,66.67
+14,13,Troy,12,21,14,66.67
+15,13,UTEP,12,21,14,66.67
+16,13,Nebraska,13,15,10,66.67
+17,18,Fresno State,13,32,21,65.63
+18,19,Michigan State,14,14,9,64.29
+19,20,Ohio State,14,22,14,63.64
+20,21,Missouri,14,16,10,62.50
+21,22,San Jose State,12,26,16,61.54
+22,23,Texas A&M,13,18,11,61.11
+23,23,Utah,12,18,11,61.11
+24,25,Kentucky,12,28,17,60.71
+25,26,Arizona State,14,25,15,60.00
+26,26,Washington State,13,25,15,60.00
+27,26,Colorado State,14,25,15,60.00
+28,29,Air Force,12,27,16,59.26
+29,30,Marshall,14,22,13,59.09
+30,30,Georgia,13,22,13,59.09
+31,32,Virginia Tech,13,17,10,58.82
+32,33,Alabama,13,12,7,58.33
+33,34,Florida,12,19,11,57.89
+34,35,Clemson,13,26,15,57.69
+35,36,Eastern Michigan,12,21,12,57.14
+36,36,Stanford,14,14,8,57.14
+37,36,Kansas State,13,7,4,57.14
+38,39,Tulsa,12,30,17,56.67
+39,40,Rice,14,16,9,56.25
+40,41,Boston College,13,9,5,55.56
+41,42,Connecticut,12,20,11,55.00
+42,42,Wisconsin,13,20,11,55.00
+43,44,Tulane,13,11,6,54.55
+44,45,Penn State,12,24,13,54.17
+45,46,Oregon State,13,26,14,53.85
+46,46,Michigan,13,13,7,53.85
+47,48,New Mexico,12,28,15,53.57
+48,48,Mississippi,13,28,15,53.57
+49,50,Florida Atlantic,12,15,8,53.33
+50,50,North Texas,13,15,8,53.33
+51,50,USC,14,15,8,53.33
+52,50,Auburn,14,15,8,53.33
+53,54,BYU,13,21,11,52.38
+54,54,Texas State,12,21,11,52.38
+55,56,Boise State,13,23,12,52.17
+56,57,Baylor,13,25,13,52.00
+57,58,Nevada,12,28,14,50.00
+58,58,Army,12,26,13,50.00
+59,58,Indiana,12,24,12,50.00
+60,58,Western Kentucky,12,24,12,50.00
+61,58,Toledo,12,16,8,50.00
+62,58,Pittsburgh,13,10,5,50.00
+63,64,Oregon,13,31,15,48.39
+64,65,Memphis,12,27,13,48.15
+65,65,SMU,12,27,13,48.15
+66,67,UNLV,13,25,12,48.00
+67,67,Purdue,12,25,12,48.00
+68,69,Temple,12,23,11,47.83
+69,70,UAB,12,21,10,47.62
+70,71,Kent State,12,19,9,47.37
+71,71,Cincinnati,13,19,9,47.37
+72,73,Buffalo,13,17,8,47.06
+73,73,Syracuse,13,17,8,47.06
+74,75,Arkansas,12,15,7,46.67
+75,76,Florida International,12,24,11,45.83
+76,76,Texas,13,24,11,45.83
+77,78,Bowling Green,14,22,10,45.45
+78,78,Western Michigan,12,22,10,45.45
+79,78,Wyoming,12,22,10,45.45
+80,78,Oklahoma State,13,11,5,45.45
+81,78,Tennessee,12,11,5,45.45
+82,83,North Carolina State,12,31,14,45.16
+83,84,Georgia State,12,20,9,45.00
+84,85,Mississippi State,13,29,13,44.83
+85,86,Hawai'i,12,27,12,44.44
+86,86,Texas Tech,13,18,8,44.44
+87,86,Georgia Tech,13,18,8,44.44
+88,89,Idaho,12,35,15,42.86
+89,89,Northwestern,12,14,6,42.86
+90,91,Miami (Ohio),12,26,11,42.31
+91,92,California,12,38,16,42.11
+92,92,Washington,13,19,8,42.11
+93,92,Utah State,14,19,8,42.11
+94,92,Miami (Florida),13,19,8,42.11
+95,96,UCLA,13,12,5,41.67
+96,96,Ohio,13,12,5,41.67
+97,98,Southern Mississippi,12,17,7,41.18
+98,99,Massachusetts,12,22,9,40.91
+99,100,Arizona,13,30,12,40.00
+100,100,TCU,12,15,6,40.00
+101,102,San Diego State,13,38,15,39.47
+102,103,Akron,12,18,7,38.89
+103,104,Notre Dame,13,13,5,38.46
+104,105,Middle Tennessee,13,16,6,37.50
+105,105,UCF,13,8,3,37.50
+106,107,South Alabama,12,22,8,36.36
+107,107,New Mexico State,12,11,4,36.36
+108,109,Ball State,13,14,5,35.71
+109,110,Maryland,13,18,6,33.33
+110,110,Illinois,12,15,5,33.33
+111,110,LSU,13,9,3,33.33
+112,110,Louisville,13,6,2,33.33
+113,114,Louisiana Tech,12,16,5,31.25
+114,114,South Florida,12,16,5,31.25
+115,116,Louisiana-Monroe,12,20,6,30.00
+116,116,Central Michigan,12,10,3,30.00
+117,118,Iowa,13,17,5,29.41
+118,119,Arkansas State,13,21,6,28.57
+119,119,Colorado,12,14,4,28.57
+120,119,Louisiana-Lafayette,13,14,4,28.57
+121,122,Kansas,12,28,7,25.00
+122,123,Virginia,12,25,6,24.00
+123,124,Houston,13,17,4,23.53
+124,125,West Virginia,12,18,4,22.22

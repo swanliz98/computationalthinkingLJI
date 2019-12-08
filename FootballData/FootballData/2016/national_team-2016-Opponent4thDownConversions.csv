@@ -1,0 +1,129 @@
+,Rank,Name,G,Attempts,Conversions,Conversion %
+0,1,Alabama,15,22,4,18.18
+1,2,Appalachian State,13,23,5,21.74
+2,3,Ball State,12,17,4,23.53
+3,4,Duke,12,12,3,25.00
+4,4,Florida,13,16,4,25.00
+5,4,Arkansas State,13,20,5,25.00
+6,7,Miami (Florida),13,24,7,29.17
+7,8,Boston College,13,13,4,30.77
+8,8,Tennessee,13,26,8,30.77
+9,10,Illinois,12,16,5,31.25
+10,10,Arizona,12,16,5,31.25
+11,12,Vanderbilt,13,19,6,31.58
+12,13,Tulane,12,9,3,33.33
+13,13,Texas A&M,13,21,7,33.33
+14,15,San Diego State,14,26,9,34.62
+15,16,Ohio State,13,23,8,34.78
+16,17,West Virginia,13,20,7,35.00
+17,18,Wisconsin,14,19,7,36.84
+18,19,East Carolina,12,16,6,37.50
+19,19,Washington State,13,16,6,37.50
+20,19,Buffalo,12,24,9,37.50
+21,22,Penn State,14,21,8,38.10
+22,23,Wyoming,14,13,5,38.46
+23,23,Maryland,13,26,10,38.46
+24,25,Western Kentucky,14,28,11,39.29
+25,26,Louisiana-Monroe,12,15,6,40.00
+26,27,North Texas,13,27,11,40.74
+27,27,Michigan,13,27,11,40.74
+28,27,Oklahoma State,13,27,11,40.74
+29,30,BYU,13,22,9,40.91
+30,31,Georgia,13,17,7,41.18
+31,32,Missouri,12,12,5,41.67
+32,32,Southern Mississippi,13,12,5,41.67
+33,32,Kansas State,13,24,10,41.67
+34,32,Clemson,15,24,10,41.67
+35,36,Air Force,13,19,8,42.11
+36,36,Houston,13,19,8,42.11
+37,36,Army,13,19,8,42.11
+38,36,UTSA,13,19,8,42.11
+39,40,Central Michigan,13,21,9,42.86
+40,40,Wake Forest,13,21,9,42.86
+41,42,Oregon,12,16,7,43.75
+42,43,Kansas,12,18,8,44.44
+43,43,Florida State,13,18,8,44.44
+44,45,Colorado,14,20,9,45.00
+45,45,Louisiana-Lafayette,13,20,9,45.00
+46,47,UCF,13,31,14,45.16
+47,48,Colorado State,13,22,10,45.45
+48,49,Minnesota,13,26,12,46.15
+49,49,Nebraska,13,26,12,46.15
+50,51,Toledo,13,15,7,46.67
+51,52,Texas,12,17,8,47.06
+52,52,New Mexico State,12,17,8,47.06
+53,54,Louisville,13,19,9,47.37
+54,55,Virginia Tech,14,21,10,47.62
+55,56,Old Dominion,13,35,17,48.57
+56,57,Washington,14,37,18,48.65
+57,58,Utah,13,12,6,50.00
+58,58,Charlotte,12,20,10,50.00
+59,58,Temple,14,22,11,50.00
+60,58,Hawai'i,14,22,11,50.00
+61,58,Miami (Ohio),13,22,11,50.00
+62,63,Auburn,13,23,12,52.17
+63,63,Oregon State,12,23,12,52.17
+64,63,Notre Dame,12,23,12,52.17
+65,66,Texas Tech,12,21,11,52.38
+66,66,Rutgers,12,21,11,52.38
+67,68,Georgia Tech,13,19,10,52.63
+68,68,LSU,12,19,10,52.63
+69,70,Syracuse,12,17,9,52.94
+70,70,South Florida,13,34,18,52.94
+71,72,Tulsa,13,32,17,53.13
+72,73,Virginia,12,15,8,53.33
+73,73,Boise State,13,30,16,53.33
+74,75,Kentucky,13,13,7,53.85
+75,75,Northwestern,13,26,14,53.85
+76,77,Troy,13,33,18,54.55
+77,78,Idaho,13,20,11,55.00
+78,78,South Alabama,13,20,11,55.00
+79,78,Ohio,14,20,11,55.00
+80,81,TCU,13,18,10,55.56
+81,81,Western Michigan,14,18,10,55.56
+82,81,Florida International,12,18,10,55.56
+83,81,Oklahoma,13,27,15,55.56
+84,85,Arizona State,12,16,9,56.25
+85,85,New Mexico,13,16,9,56.25
+86,87,Bowling Green,12,7,4,57.14
+87,87,Stanford,13,28,16,57.14
+88,89,Utah State,12,19,11,57.89
+89,90,South Carolina,13,24,14,58.33
+90,91,Rice,12,17,10,58.82
+91,92,Connecticut,12,22,13,59.09
+92,92,Akron,12,22,13,59.09
+93,94,Iowa State,12,15,9,60.00
+94,94,UTEP,12,15,9,60.00
+95,94,USC,13,25,15,60.00
+96,94,Massachusetts,12,25,15,60.00
+97,98,Iowa,13,23,14,60.87
+98,98,Marshall,12,23,14,60.87
+99,98,SMU,12,23,14,60.87
+100,98,Memphis,13,23,14,60.87
+101,102,Middle Tennessee,13,41,25,60.98
+102,103,Cincinnati,12,18,11,61.11
+103,104,Arkansas,13,13,8,61.54
+104,104,Florida Atlantic,12,13,8,61.54
+105,106,Georgia Southern,12,21,13,61.90
+106,107,Kent State,12,16,10,62.50
+107,107,Louisiana Tech,14,24,15,62.50
+108,109,Indiana,13,27,17,62.96
+109,109,North Carolina State,13,27,17,62.96
+110,111,UNLV,12,19,12,63.16
+111,112,Baylor,13,22,14,63.64
+112,112,Nevada,12,22,14,63.64
+113,114,Mississippi,12,14,9,64.29
+114,115,Michigan State,12,17,11,64.71
+115,116,Northern Illinois,12,15,10,66.67
+116,116,North Carolina,13,21,14,66.67
+117,116,Navy,14,27,18,66.67
+118,119,Mississippi State,13,28,19,67.86
+119,120,Purdue,12,13,9,69.23
+120,120,Fresno State,12,13,9,69.23
+121,120,Georgia State,12,26,18,69.23
+122,123,UCLA,12,20,14,70.00
+123,124,Texas State,12,14,10,71.43
+124,125,Eastern Michigan,13,16,12,75.00
+125,125,Pittsburgh,13,28,21,75.00
+126,127,San Jose State,12,15,12,80.00
+127,128,California,12,11,9,81.82

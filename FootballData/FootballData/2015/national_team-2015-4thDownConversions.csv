@@ -1,0 +1,129 @@
+,Rank,Name,G,Attempts,Conversions,Conversion %
+0,1,Navy,13,26,24,92.31
+1,2,Pittsburgh,13,13,11,84.62
+2,3,Stanford,14,16,13,81.25
+3,4,San Diego State,14,10,8,80.00
+4,4,Oklahoma State,13,10,8,80.00
+5,6,Tennessee,13,17,13,76.47
+6,7,Wisconsin,13,8,6,75.00
+7,8,Syracuse,12,15,11,73.33
+8,9,New Mexico,13,22,16,72.73
+9,9,Louisiana Tech,13,11,8,72.73
+10,11,Miami (Florida),13,18,13,72.22
+11,12,Baylor,13,40,28,70.00
+12,13,Kentucky,12,19,13,68.42
+13,14,Washington State,13,39,26,66.67
+14,14,Utah,13,24,16,66.67
+15,16,USC,14,26,17,65.38
+16,17,Buffalo,12,23,15,65.22
+17,18,East Carolina,12,17,11,64.71
+18,19,Georgia Southern,13,31,20,64.52
+19,20,Iowa,14,14,9,64.29
+20,21,Cincinnati,13,11,7,63.64
+21,22,Boise State,13,27,17,62.96
+22,23,Idaho,12,24,15,62.50
+23,23,Appalachian State,13,24,15,62.50
+24,23,Central Michigan,13,16,10,62.50
+25,23,Nebraska,13,8,5,62.50
+26,23,Notre Dame,13,8,5,62.50
+27,28,Western Michigan,13,21,13,61.90
+28,29,Texas State,12,26,16,61.54
+29,29,Virginia Tech,13,13,8,61.54
+30,29,UCLA,13,13,8,61.54
+31,32,North Carolina State,13,31,19,61.29
+32,33,Air Force,14,23,14,60.87
+33,33,Wyoming,12,23,14,60.87
+34,35,Auburn,13,15,9,60.00
+35,36,Eastern Michigan,12,17,10,58.82
+36,36,Colorado State,13,17,10,58.82
+37,38,Middle Tennessee,13,24,14,58.33
+38,38,North Carolina,14,12,7,58.33
+39,40,South Florida,13,19,11,57.89
+40,40,Ohio State,13,19,11,57.89
+41,42,Oregon,13,28,16,57.14
+42,42,Western Kentucky,14,21,12,57.14
+43,42,Arkansas,13,21,12,57.14
+44,42,Ohio,13,21,12,57.14
+45,42,Clemson,15,14,8,57.14
+46,47,Marshall,13,16,9,56.25
+47,48,Colorado,13,27,15,55.56
+48,48,Arizona State,13,18,10,55.56
+49,48,Memphis,13,18,10,55.56
+50,48,LSU,12,9,5,55.56
+51,52,South Carolina,12,20,11,55.00
+52,53,Purdue,12,44,24,54.55
+53,54,Louisiana-Lafayette,12,24,13,54.17
+54,55,Tulsa,13,26,14,53.85
+55,56,Bowling Green,14,30,16,53.33
+56,56,Virginia,12,15,8,53.33
+57,56,Kansas State,13,15,8,53.33
+58,59,Oklahoma,13,17,9,52.94
+59,60,BYU,13,21,11,52.38
+60,61,Charlotte,12,23,12,52.17
+61,61,Ball State,12,23,12,52.17
+62,61,Penn State,13,23,12,52.17
+63,64,Florida,14,27,14,51.85
+64,65,Southern Mississippi,14,31,16,51.61
+65,66,Florida Atlantic,12,33,17,51.52
+66,66,Northern Illinois,14,33,17,51.52
+67,68,California,13,26,13,50.00
+68,68,Houston,14,26,13,50.00
+69,68,Georgia Tech,12,26,13,50.00
+70,68,Alabama,15,24,12,50.00
+71,68,Utah State,13,22,11,50.00
+72,68,Mississippi State,13,22,11,50.00
+73,68,Duke,13,22,11,50.00
+74,68,Arkansas State,13,20,10,50.00
+75,68,UTEP,12,18,9,50.00
+76,68,Rice,12,12,6,50.00
+77,78,Temple,14,23,11,47.83
+78,78,Texas Tech,13,23,11,47.83
+79,80,West Virginia,13,19,9,47.37
+80,81,TCU,13,15,7,46.67
+81,81,Mississippi,13,15,7,46.67
+82,81,Akron,13,15,7,46.67
+83,81,Louisville,13,15,7,46.67
+84,85,Louisiana-Monroe,13,28,13,46.43
+85,86,Toledo,12,22,10,45.45
+86,86,Northwestern,13,11,5,45.45
+87,88,Nevada,13,20,9,45.00
+88,88,Rutgers,12,20,9,45.00
+89,90,Iowa State,12,29,13,44.83
+90,90,Indiana,13,29,13,44.83
+91,92,North Texas,12,27,12,44.44
+92,92,Miami (Ohio),12,18,8,44.44
+93,92,Florida State,13,9,4,44.44
+94,95,Illinois,12,25,11,44.00
+95,96,South Alabama,12,16,7,43.75
+96,97,San Jose State,13,23,10,43.48
+97,98,Florida International,12,21,9,42.86
+98,99,Michigan State,14,19,8,42.11
+99,99,Washington,13,19,8,42.11
+100,101,Georgia,13,12,5,41.67
+101,102,Wake Forest,12,17,7,41.18
+102,102,Missouri,12,17,7,41.18
+103,104,Army,12,22,9,40.91
+104,105,New Mexico State,12,30,12,40.00
+105,105,Texas,12,15,6,40.00
+106,107,Vanderbilt,12,18,7,38.89
+107,108,Boston College,12,13,5,38.46
+108,109,Massachusetts,12,32,12,37.50
+109,109,Michigan,13,16,6,37.50
+110,111,Arizona,13,27,10,37.04
+111,112,Troy,12,19,7,36.84
+112,113,Minnesota,13,17,6,35.29
+113,114,SMU,12,20,7,35.00
+114,115,Kent State,12,26,9,34.62
+115,116,Maryland,12,21,7,33.33
+116,116,UCF,12,18,6,33.33
+117,118,Old Dominion,12,25,8,32.00
+118,119,Hawai'i,13,22,7,31.82
+119,120,Tulane,12,16,5,31.25
+120,121,Fresno State,12,29,9,31.03
+121,122,Texas A&M,13,20,6,30.00
+122,122,Connecticut,13,20,6,30.00
+123,124,Kansas,12,26,7,26.92
+124,125,UNLV,12,19,5,26.32
+125,126,UTSA,12,14,3,21.43
+126,127,Oregon State,12,17,3,17.65
+127,128,Georgia State,13,9,1,11.11

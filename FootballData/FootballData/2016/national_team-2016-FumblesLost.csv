@@ -1,0 +1,129 @@
+,Rank,Name,G,Fumbles,Fumbles Lost,Fumble Lost %
+0,1,Nevada,12,7,2,28.57
+1,1,Iowa,13,13,2,15.38
+2,3,Miami (Florida),13,7,3,42.86
+3,3,UNLV,12,12,3,25.00
+4,3,California,12,15,3,20.00
+5,6,Marshall,12,9,4,44.44
+6,6,Old Dominion,13,10,4,40.00
+7,6,Northern Illinois,12,10,4,40.00
+8,6,Louisiana-Lafayette,13,12,4,33.33
+9,6,Vanderbilt,13,16,4,25.00
+10,6,Western Michigan,14,21,4,19.05
+11,12,Toledo,13,11,5,45.45
+12,12,Minnesota,13,12,5,41.67
+13,12,Washington State,13,12,5,41.67
+14,12,Mississippi,12,13,5,38.46
+15,12,Michigan,13,13,5,38.46
+16,12,San Jose State,12,13,5,38.46
+17,12,Fresno State,12,13,5,38.46
+18,12,Nebraska,13,16,5,31.25
+19,12,Kent State,12,17,5,29.41
+20,12,Appalachian State,13,17,5,29.41
+21,12,Ohio State,13,17,5,29.41
+22,23,Middle Tennessee,13,12,6,50.00
+23,23,Idaho,13,13,6,46.15
+24,23,TCU,13,13,6,46.15
+25,23,Florida International,12,13,6,46.15
+26,23,Washington,14,13,6,46.15
+27,23,Eastern Michigan,13,14,6,42.86
+28,23,Wisconsin,14,14,6,42.86
+29,23,Wake Forest,13,14,6,42.86
+30,23,Temple,14,15,6,40.00
+31,23,Utah State,12,17,6,35.29
+32,23,Texas Tech,12,17,6,35.29
+33,23,Mississippi State,13,18,6,33.33
+34,35,Northwestern,13,9,7,77.78
+35,35,Kansas State,13,12,7,58.33
+36,35,Florida Atlantic,12,13,7,53.85
+37,35,SMU,12,14,7,50.00
+38,35,New Mexico State,12,14,7,50.00
+39,35,Syracuse,12,15,7,46.67
+40,35,Arizona State,12,15,7,46.67
+41,35,Michigan State,12,16,7,43.75
+42,35,BYU,13,16,7,43.75
+43,35,UTSA,13,17,7,41.18
+44,35,Troy,13,20,7,35.00
+45,35,Florida,13,20,7,35.00
+46,47,Buffalo,12,12,8,66.67
+47,47,Iowa State,12,13,8,61.54
+48,47,Purdue,12,14,8,57.14
+49,47,Georgia State,12,15,8,53.33
+50,47,Connecticut,12,16,8,50.00
+51,47,Cincinnati,12,16,8,50.00
+52,47,UTEP,12,16,8,50.00
+53,47,North Carolina State,13,17,8,47.06
+54,47,Akron,12,17,8,47.06
+55,47,Oregon State,12,17,8,47.06
+56,47,New Mexico,13,17,8,47.06
+57,47,Colorado State,13,18,8,44.44
+58,47,Auburn,13,18,8,44.44
+59,47,Louisiana Tech,14,18,8,44.44
+60,47,Rice,12,20,8,40.00
+61,47,Bowling Green,12,20,8,40.00
+62,47,Louisiana-Monroe,12,20,8,40.00
+63,47,Arkansas State,13,20,8,40.00
+64,47,Central Michigan,13,20,8,40.00
+65,47,Texas State,12,23,8,34.78
+66,47,North Texas,13,23,8,34.78
+67,47,South Alabama,13,24,8,33.33
+68,69,Charlotte,12,11,9,81.82
+69,69,Ball State,12,13,9,69.23
+70,69,Tulsa,13,17,9,52.94
+71,69,Pittsburgh,13,17,9,52.94
+72,69,San Diego State,14,17,9,52.94
+73,69,Georgia Southern,12,18,9,50.00
+74,69,Wyoming,14,18,9,50.00
+75,69,Oklahoma,13,18,9,50.00
+76,69,Notre Dame,12,18,9,50.00
+77,69,Navy,14,19,9,47.37
+78,69,Stanford,13,20,9,45.00
+79,69,South Florida,13,20,9,45.00
+80,69,Oregon,12,20,9,45.00
+81,69,Air Force,13,22,9,40.91
+82,69,Colorado,14,22,9,40.91
+83,69,USC,13,22,9,40.91
+84,69,UCLA,12,22,9,40.91
+85,69,Arizona,12,24,9,37.50
+86,87,Arkansas,13,13,10,76.92
+87,87,West Virginia,13,13,10,76.92
+88,87,North Carolina,13,14,10,71.43
+89,87,Virginia,12,14,10,71.43
+90,87,Tulane,12,15,10,66.67
+91,87,Oklahoma State,13,15,10,66.67
+92,87,LSU,12,15,10,66.67
+93,87,Georgia,13,16,10,62.50
+94,87,Maryland,13,20,10,50.00
+95,87,Hawai'i,14,20,10,50.00
+96,87,Massachusetts,12,20,10,50.00
+97,87,Boise State,13,21,10,47.62
+98,87,Houston,13,21,10,47.62
+99,87,Alabama,15,26,10,38.46
+100,101,Texas,12,18,11,61.11
+101,101,Indiana,13,19,11,57.89
+102,101,Clemson,15,20,11,55.00
+103,101,Memphis,13,21,11,52.38
+104,101,Illinois,12,22,11,50.00
+105,101,Western Kentucky,14,23,11,47.83
+106,101,Georgia Tech,13,27,11,40.74
+107,108,Rutgers,12,21,12,57.14
+108,108,Boston College,13,22,12,54.55
+109,108,Texas A&M,13,22,12,54.55
+110,108,Penn State,14,22,12,54.55
+111,108,Florida State,13,23,12,52.17
+112,108,East Carolina,12,24,12,50.00
+113,108,Baylor,13,26,12,46.15
+114,115,Miami (Ohio),13,17,13,76.47
+115,115,South Carolina,13,21,13,61.90
+116,115,Ohio,14,24,13,54.17
+117,115,Missouri,12,28,13,46.43
+118,119,Duke,12,18,14,77.78
+119,119,Kansas,12,20,14,70.00
+120,119,Tennessee,13,29,14,48.28
+121,119,Army,13,31,14,45.16
+122,123,Kentucky,13,23,16,69.57
+123,123,UCF,13,26,16,61.54
+124,123,Southern Mississippi,13,28,16,57.14
+125,126,Utah,13,32,17,53.13
+126,127,Virginia Tech,14,32,18,56.25
+127,128,Louisville,13,30,22,73.33

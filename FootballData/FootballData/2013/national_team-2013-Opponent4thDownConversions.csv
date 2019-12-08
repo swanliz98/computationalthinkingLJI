@@ -1,0 +1,126 @@
+,Rank,Name,G,Attempts,Conversions,Conversion %
+0,1,Buffalo,13,18,4,22.22
+1,2,Baylor,13,28,7,25.00
+2,3,Alabama,13,19,5,26.32
+3,4,Kansas,12,7,2,28.57
+4,5,Texas State,12,30,9,30.00
+5,6,Kent State,12,13,4,30.77
+6,6,North Texas,13,13,4,30.77
+7,8,Notre Dame,13,19,6,31.58
+8,8,Michigan State,14,19,6,31.58
+9,10,Louisiana-Monroe,12,12,4,33.33
+10,10,Nevada,12,18,6,33.33
+11,10,North Carolina,13,21,7,33.33
+12,13,Washington,13,26,9,34.62
+13,14,Bowling Green,14,23,8,34.78
+14,14,BYU,13,23,8,34.78
+15,16,UTSA,12,17,6,35.29
+16,17,Oklahoma,13,14,5,35.71
+17,17,UNLV,13,28,10,35.71
+18,19,USC,14,22,8,36.36
+19,20,Pittsburgh,13,19,7,36.84
+20,21,Virginia Tech,13,16,6,37.50
+21,21,Georgia State,12,16,6,37.50
+22,23,Nebraska,13,21,8,38.10
+23,24,Texas,13,13,5,38.46
+24,24,Louisiana-Lafayette,13,26,10,38.46
+25,26,Michigan,13,15,6,40.00
+26,26,UCF,13,20,8,40.00
+27,26,Connecticut,12,20,8,40.00
+28,29,Arkansas State,13,22,9,40.91
+29,30,Akron,12,17,7,41.18
+30,30,Maryland,13,17,7,41.18
+31,32,Central Michigan,12,19,8,42.11
+32,32,Syracuse,13,19,8,42.11
+33,32,Troy,12,19,8,42.11
+34,35,Virginia,12,14,6,42.86
+35,35,Penn State,12,14,6,42.86
+36,35,LSU,13,21,9,42.86
+37,38,Rice,14,30,13,43.33
+38,39,Texas Tech,13,29,13,44.83
+39,39,Indiana,12,29,13,44.83
+40,41,Wisconsin,13,20,9,45.00
+41,41,SMU,12,20,9,45.00
+42,43,San Diego State,13,24,11,45.83
+43,44,Arizona,13,26,12,46.15
+44,45,Oregon,13,28,13,46.43
+45,45,Auburn,14,28,13,46.43
+46,47,Western Kentucky,12,15,7,46.67
+47,47,Northern Illinois,14,30,14,46.67
+48,49,Florida,12,17,8,47.06
+49,49,Florida Atlantic,12,17,8,47.06
+50,51,Massachusetts,12,19,9,47.37
+51,52,UCLA,13,23,11,47.83
+52,52,Kansas State,13,23,11,47.83
+53,54,Colorado State,14,29,14,48.28
+54,55,Northwestern,12,16,8,50.00
+55,55,Boston College,13,16,8,50.00
+56,55,Utah,12,18,9,50.00
+57,55,Mississippi State,13,18,9,50.00
+58,55,Illinois,12,18,9,50.00
+59,55,Florida State,14,22,11,50.00
+60,55,Oklahoma State,13,30,15,50.00
+61,55,Fresno State,13,38,19,50.00
+62,63,Stanford,14,31,16,51.61
+63,64,East Carolina,13,25,13,52.00
+64,65,Louisville,13,23,12,52.17
+65,66,Wake Forest,12,21,11,52.38
+66,66,Hawai'i,12,21,11,52.38
+67,68,Louisiana Tech,12,19,10,52.63
+68,68,Memphis,12,19,10,52.63
+69,68,Temple,12,19,10,52.63
+70,71,Oregon State,13,17,9,52.94
+71,72,Duke,14,28,15,53.57
+72,73,Ohio State,14,24,13,54.17
+73,74,Cincinnati,13,22,12,54.55
+74,75,Mississippi,13,20,11,55.00
+75,76,Navy,13,29,16,55.17
+76,77,South Florida,12,9,5,55.56
+77,77,New Mexico State,12,18,10,55.56
+78,77,Army,12,18,10,55.56
+79,77,Purdue,12,18,10,55.56
+80,77,Boise State,13,27,15,55.56
+81,82,Texas A&M,13,25,14,56.00
+82,82,Vanderbilt,13,25,14,56.00
+83,82,Houston,13,25,14,56.00
+84,85,Iowa State,12,23,13,56.52
+85,85,Missouri,14,23,13,56.52
+86,87,Marshall,14,30,17,56.67
+87,88,Ohio,13,14,8,57.14
+88,88,Iowa,13,21,12,57.14
+89,90,Utah State,14,33,19,57.58
+90,91,Washington State,13,26,15,57.69
+91,92,South Alabama,12,19,11,57.89
+92,92,Air Force,12,19,11,57.89
+93,94,Tulsa,12,12,7,58.33
+94,95,Arizona State,14,22,13,59.09
+95,95,Minnesota,13,22,13,59.09
+96,97,Tulane,13,10,6,60.00
+97,97,Colorado,12,25,15,60.00
+98,99,Clemson,13,23,14,60.87
+99,100,Ball State,13,31,19,61.29
+100,101,TCU,12,13,8,61.54
+101,101,Georgia Tech,13,13,8,61.54
+102,103,South Carolina,13,21,13,61.90
+103,104,Florida International,12,11,7,63.64
+104,104,Georgia,13,22,14,63.64
+105,106,Arkansas,12,14,9,64.29
+106,107,Toledo,12,17,11,64.71
+107,107,Western Michigan,12,17,11,64.71
+108,109,North Carolina State,12,9,6,66.67
+109,109,California,12,18,12,66.67
+110,109,Middle Tennessee,13,18,12,66.67
+111,109,Miami (Florida),13,21,14,66.67
+112,113,New Mexico,12,22,15,68.18
+113,114,Idaho,12,19,13,68.42
+114,115,Kentucky,12,16,11,68.75
+115,116,Wyoming,12,24,17,70.83
+116,117,UTEP,12,11,8,72.73
+117,118,San Jose State,12,19,14,73.68
+118,119,West Virginia,12,8,6,75.00
+119,119,Tennessee,12,12,9,75.00
+120,119,Miami (Ohio),12,12,9,75.00
+121,122,Rutgers,13,17,13,76.47
+122,123,Eastern Michigan,12,10,8,80.00
+123,123,Southern Mississippi,12,15,12,80.00
+124,125,UAB,12,12,10,83.33

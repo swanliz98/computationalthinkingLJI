@@ -1,0 +1,131 @@
+,Rank,Name,G,Attempts,Conversions,Conversion %
+0,1,Wisconsin,3,38,4,10.53
+1,2,Kansas State,3,31,5,16.13
+2,3,Navy,2,25,5,20.00
+3,4,UAB,3,42,9,21.43
+4,5,Ohio State,4,65,15,23.08
+5,6,Maryland,3,46,11,23.91
+6,7,Oklahoma,3,37,9,24.32
+7,8,Mississippi State,4,41,10,24.39
+8,9,Miami (Florida),4,53,13,24.53
+9,10,Boise State,4,48,12,25.00
+10,11,Iowa,3,35,9,25.71
+11,12,Missouri,4,62,16,25.81
+12,13,Texas A&M,4,52,14,26.92
+13,14,Wake Forest,4,62,17,27.42
+14,15,Louisiana-Lafayette,4,51,14,27.45
+15,16,Temple,3,54,15,27.78
+16,16,UCF,4,72,20,27.78
+17,18,Western Kentucky,3,39,11,28.21
+18,19,Minnesota,3,28,8,28.57
+19,20,Memphis,3,38,11,28.95
+20,21,Nebraska,4,65,19,29.23
+21,21,Clemson,4,65,19,29.23
+22,23,Toledo,3,41,12,29.27
+23,24,New Mexico,3,44,13,29.55
+24,25,Penn State,3,54,16,29.63
+25,26,Georgia,4,60,18,30.00
+26,27,Alabama,4,56,17,30.36
+27,27,Indiana,4,56,17,30.36
+28,29,Buffalo,4,49,15,30.61
+29,30,Oregon,4,67,21,31.34
+30,31,Northern Illinois,3,38,12,31.58
+31,32,Michigan State,4,60,19,31.67
+32,32,North Carolina State,4,60,19,31.67
+33,34,Tulsa,4,63,20,31.75
+34,35,Michigan,3,44,14,31.82
+35,35,Notre Dame,3,44,14,31.82
+36,35,California,4,66,21,31.82
+37,38,Colorado State,4,50,16,32.00
+38,39,Virginia,4,59,19,32.20
+39,39,Pittsburgh,4,59,19,32.20
+40,41,SMU,4,62,20,32.26
+41,42,Charlotte,4,46,15,32.61
+42,43,TCU,3,52,17,32.69
+43,44,Auburn,4,61,20,32.79
+44,45,Coastal Carolina,4,45,15,33.33
+45,45,Arkansas,4,54,18,33.33
+46,47,Louisville,4,59,20,33.90
+47,48,Ohio,4,53,18,33.96
+48,48,Nevada,4,53,18,33.96
+49,48,North Carolina,4,53,18,33.96
+50,51,Hawai'i,4,50,17,34.00
+51,51,Purdue,3,50,17,34.00
+52,53,Duke,3,38,13,34.21
+53,54,LSU,4,61,21,34.43
+54,55,Florida,4,55,19,34.55
+55,55,Florida Atlantic,4,55,19,34.55
+56,57,Utah,4,46,16,34.78
+57,58,Houston,4,48,17,35.42
+58,59,East Carolina,4,53,19,35.85
+59,60,Texas Tech,3,52,19,36.54
+60,61,Washington,4,57,21,36.84
+61,62,BYU,4,54,20,37.04
+62,63,Louisiana Tech,4,62,23,37.10
+63,64,San Diego State,4,59,22,37.29
+64,65,Virginia Tech,3,48,18,37.50
+65,65,Rutgers,3,48,18,37.50
+66,65,USC,4,56,21,37.50
+67,65,West Virginia,4,56,21,37.50
+68,69,Central Michigan,4,53,20,37.74
+69,70,Miami (Ohio),4,45,17,37.78
+70,71,Liberty,4,58,22,37.93
+71,72,Illinois,4,60,23,38.33
+72,73,Mississippi,4,57,22,38.60
+73,74,Wyoming,4,72,28,38.89
+74,75,South Carolina,4,64,25,39.06
+75,76,Arkansas State,4,56,22,39.29
+76,77,Boston College,4,61,24,39.34
+77,78,Vanderbilt,3,33,13,39.39
+78,79,Appalachian State,3,43,17,39.53
+79,80,Northwestern,3,45,18,40.00
+80,80,UNLV,3,50,20,40.00
+81,82,Washington State,4,52,21,40.38
+82,82,Baylor,3,52,21,40.38
+83,84,Old Dominion,3,37,15,40.54
+84,85,Army,4,56,23,41.07
+85,86,Florida State,4,63,26,41.27
+86,87,Southern Mississippi,4,46,19,41.30
+87,88,Tulane,4,58,24,41.38
+88,89,Kansas,4,60,25,41.67
+89,90,North Texas,4,67,28,41.79
+90,91,Georgia Tech,3,43,18,41.86
+91,92,Arizona State,4,66,28,42.42
+92,93,Cincinnati,3,40,17,42.50
+93,94,Syracuse,4,61,26,42.62
+94,95,UTSA,4,42,18,42.86
+95,96,Bowling Green,4,58,25,43.10
+96,96,Texas,4,58,25,43.10
+97,98,San Jose State,3,51,22,43.14
+98,99,Georgia Southern,3,44,19,43.18
+99,99,Troy,3,44,19,43.18
+100,101,Utah State,3,60,26,43.33
+101,102,South Florida,3,50,22,44.00
+102,103,Tennessee,4,59,26,44.07
+103,104,South Alabama,4,52,23,44.23
+104,105,Kent State,4,63,28,44.44
+105,106,Fresno State,3,42,19,45.24
+106,107,Iowa State,3,53,24,45.28
+107,108,Eastern Michigan,4,57,26,45.61
+108,109,Marshall,3,46,21,45.65
+109,110,Air Force,3,41,19,46.34
+110,111,Florida International,4,56,26,46.43
+111,112,Middle Tennessee,3,43,20,46.51
+112,113,Stanford,4,49,23,46.94
+113,114,Ball State,4,61,29,47.54
+114,115,Oregon State,3,42,20,47.62
+115,116,Kentucky,4,48,23,47.92
+116,117,Colorado,4,52,25,48.08
+117,118,Connecticut,3,31,15,48.39
+118,119,Massachusetts,4,43,21,48.84
+119,120,UCLA,4,53,26,49.06
+120,121,Western Michigan,4,63,31,49.21
+121,122,Oklahoma State,4,71,35,49.30
+122,123,Louisiana-Monroe,3,42,21,50.00
+123,123,Arizona,3,42,21,50.00
+124,123,New Mexico State,4,52,26,50.00
+125,123,Georgia State,4,54,27,50.00
+126,123,Texas State,4,64,32,50.00
+127,128,Akron,4,61,31,50.82
+128,129,UTEP,3,38,20,52.63
+129,130,Rice,4,55,32,58.18

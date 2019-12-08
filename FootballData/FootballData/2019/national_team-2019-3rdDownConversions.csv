@@ -1,0 +1,131 @@
+Row Index,Rank,Name,G,Attempts,Conversions,Conversion %
+0,1,Baylor,3,34,21,61.76
+1,2,Oklahoma,3,27,16,59.26
+2,3,Arizona,3,46,27,58.7
+3,4,Kansas State,3,38,22,57.89
+4,5,Texas,4,58,33,56.9
+5,6,Oklahoma State,4,62,35,56.45
+6,7,Wisconsin,3,39,22,56.41
+7,8,Troy,3,44,24,54.55
+8,9,LSU,4,48,26,54.17
+9,10,Navy,2,26,14,53.85
+10,11,Boise State,4,62,33,53.23
+11,12,Air Force,3,32,17,53.13
+12,13,Minnesota,3,42,22,52.38
+13,14,Virginia Tech,3,46,24,52.17
+14,14,Utah State,3,46,24,52.17
+15,16,Alabama,4,48,25,52.08
+16,17,Oregon State,3,41,21,51.22
+17,18,Boston College,4,68,34,50
+18,18,SMU,4,62,31,50
+19,18,Texas Tech,3,46,23,50
+20,18,Ohio State,4,40,20,50
+21,18,Appalachian State,3,38,19,50
+22,23,Indiana,4,55,27,49.09
+23,24,Washington,4,49,24,48.98
+24,25,Wake Forest,4,66,32,48.48
+25,26,Colorado,4,62,30,48.39
+26,27,Georgia State,4,65,31,47.69
+27,28,Auburn,4,61,29,47.54
+28,29,Florida,4,43,20,46.51
+29,30,Washington State,4,37,17,45.95
+30,31,Michigan State,4,61,28,45.9
+31,32,Louisiana-Monroe,3,46,21,45.65
+32,32,Iowa,3,46,21,45.65
+33,34,Nebraska,4,62,28,45.16
+34,35,Army,4,51,23,45.1
+35,36,USC,4,49,22,44.9
+36,36,Maryland,3,49,22,44.9
+37,38,Georgia,4,38,17,44.74
+38,39,Buffalo,4,65,29,44.62
+39,40,TCU,3,52,23,44.23
+40,41,Kent State,4,68,30,44.12
+41,42,Southern Mississippi,4,50,22,44
+42,43,Louisiana-Lafayette,4,41,18,43.9
+43,44,Memphis,3,48,21,43.75
+44,45,Ohio,4,53,23,43.4
+45,45,Houston,4,53,23,43.4
+46,47,Clemson,4,44,19,43.18
+47,48,Coastal Carolina,4,51,22,43.14
+48,49,Tulsa,4,70,30,42.86
+49,49,Iowa State,3,35,15,42.86
+50,51,Illinois,4,54,23,42.59
+51,52,Kansas,4,47,20,42.55
+52,53,Arizona State,4,59,25,42.37
+53,54,Virginia,4,52,22,42.31
+54,55,Texas A&M,4,50,21,42
+55,56,Florida Atlantic,4,67,28,41.79
+56,57,Utah,4,48,20,41.67
+57,58,South Alabama,4,58,24,41.38
+58,59,Louisiana Tech,4,56,23,41.07
+59,60,North Carolina State,4,61,25,40.98
+60,61,Purdue,3,44,18,40.91
+61,62,Ball State,4,59,24,40.68
+62,63,Marshall,3,32,13,40.63
+63,64,Duke,3,42,17,40.48
+64,64,Mississippi State,4,42,17,40.48
+65,66,Western Michigan,4,52,21,40.38
+66,66,Kentucky,4,52,21,40.38
+67,66,Tennessee,4,52,21,40.38
+68,69,UTSA,4,65,26,40
+69,69,Colorado State,4,55,22,40
+70,69,Western Kentucky,3,45,18,40
+71,69,Hawai'i,4,45,18,40
+72,73,West Virginia,4,63,25,39.68
+73,74,New Mexico State,4,58,23,39.66
+74,75,San Jose State,3,38,15,39.47
+75,76,Missouri,4,61,24,39.34
+76,77,Oregon,4,51,20,39.22
+77,78,Nevada,4,64,25,39.06
+78,79,BYU,4,54,21,38.89
+79,80,Arkansas,4,57,22,38.6
+80,81,San Diego State,4,68,26,38.24
+81,81,Middle Tennessee,3,34,13,38.24
+82,83,Toledo,3,42,16,38.1
+83,84,UCF,4,58,22,37.93
+84,85,Charlotte,4,45,17,37.78
+85,86,Florida State,4,61,23,37.7
+86,86,Stanford,4,61,23,37.7
+87,88,Syracuse,4,69,26,37.68
+88,89,Texas State,4,64,24,37.5
+89,89,Northwestern,3,48,18,37.5
+90,89,Fresno State,3,40,15,37.5
+91,92,North Texas,4,59,22,37.29
+92,92,Mississippi,4,59,22,37.29
+93,94,East Carolina,4,57,21,36.84
+94,95,Louisville,4,52,19,36.54
+95,96,Michigan,3,39,14,35.9
+96,97,Tulane,4,53,19,35.85
+97,98,Cincinnati,3,45,16,35.56
+98,98,Temple,3,45,16,35.56
+99,100,UAB,3,40,14,35
+100,101,Pittsburgh,4,63,22,34.92
+101,102,Eastern Michigan,4,52,18,34.62
+102,103,California,4,55,19,34.55
+103,104,Rice,4,58,20,34.48
+104,105,Massachusetts,4,61,21,34.43
+105,106,Connecticut,3,41,14,34.15
+106,107,South Carolina,4,53,18,33.96
+107,108,UNLV,3,42,14,33.33
+108,108,Georgia Tech,3,39,13,33.33
+109,110,Wyoming,4,58,19,32.76
+110,110,Central Michigan,4,58,19,32.76
+111,112,Vanderbilt,3,46,15,32.61
+112,113,Miami (Ohio),4,56,18,32.14
+113,113,Arkansas State,4,56,18,32.14
+114,115,UCLA,4,53,17,32.08
+115,116,Old Dominion,3,44,14,31.82
+116,117,South Florida,3,45,14,31.11
+117,117,Liberty,4,45,14,31.11
+118,119,Rutgers,3,43,13,30.23
+119,120,Florida International,4,50,15,30
+120,121,Bowling Green,4,61,18,29.51
+121,122,Notre Dame,3,35,10,28.57
+122,123,North Carolina,4,58,16,27.59
+123,124,New Mexico,3,48,13,27.08
+124,125,UTEP,3,37,10,27.03
+125,126,Akron,4,58,15,25.86
+126,127,Penn State,3,30,7,23.33
+127,128,Miami (Florida),4,43,10,23.26
+128,129,Northern Illinois,3,47,10,21.28
+129,130,Georgia Southern,3,34,6,17.65

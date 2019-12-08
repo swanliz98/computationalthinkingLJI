@@ -1,0 +1,129 @@
+,Rank,Name,G,Fumbles,Fumbles Lost,Fumble Lost %
+0,1,Arkansas,13,15,3,20.00
+1,1,South Carolina,12,18,3,16.67
+2,3,Buffalo,12,8,4,50.00
+3,3,Ohio,13,9,4,44.44
+4,3,TCU,13,12,4,33.33
+5,3,UNLV,12,14,4,28.57
+6,3,Toledo,12,16,4,25.00
+7,3,LSU,12,16,4,25.00
+8,9,Oregon State,12,10,5,50.00
+9,9,Stanford,14,12,5,41.67
+10,9,USC,14,12,5,41.67
+11,9,Nevada,13,13,5,38.46
+12,9,Wisconsin,13,14,5,35.71
+13,9,Central Michigan,13,14,5,35.71
+14,9,San Jose State,13,15,5,33.33
+15,9,Missouri,12,18,5,27.78
+16,9,Oklahoma State,13,18,5,27.78
+17,9,Tulane,12,19,5,26.32
+18,9,Auburn,13,19,5,26.32
+19,9,Miami (Florida),13,20,5,25.00
+20,21,Nebraska,13,11,6,54.55
+21,21,Virginia,12,13,6,46.15
+22,21,Kentucky,12,13,6,46.15
+23,21,Kansas State,13,13,6,46.15
+24,21,Akron,13,13,6,46.15
+25,21,Ball State,12,14,6,42.86
+26,21,UCLA,13,14,6,42.86
+27,21,Fresno State,12,14,6,42.86
+28,21,Wake Forest,12,15,6,40.00
+29,21,Connecticut,13,15,6,40.00
+30,21,Navy,13,15,6,40.00
+31,21,Indiana,13,15,6,40.00
+32,21,Michigan State,14,15,6,40.00
+33,21,Massachusetts,12,15,6,40.00
+34,21,Florida State,13,15,6,40.00
+35,21,Michigan,13,16,6,37.50
+36,21,Rutgers,12,19,6,31.58
+37,21,South Florida,13,20,6,30.00
+38,39,Alabama,15,12,7,58.33
+39,39,Bowling Green,14,13,7,53.85
+40,39,North Carolina State,13,14,7,50.00
+41,39,West Virginia,13,14,7,50.00
+42,39,Virginia Tech,13,16,7,43.75
+43,39,Florida International,12,16,7,43.75
+44,39,New Mexico State,12,17,7,41.18
+45,39,Maryland,12,18,7,38.89
+46,39,New Mexico,13,18,7,38.89
+47,39,Florida,14,18,7,38.89
+48,39,Houston,14,19,7,36.84
+49,39,East Carolina,12,19,7,36.84
+50,39,Tennessee,13,20,7,35.00
+51,39,Oregon,13,20,7,35.00
+52,39,Northwestern,13,21,7,33.33
+53,39,Pittsburgh,13,23,7,30.43
+54,55,Texas,12,14,8,57.14
+55,55,Idaho,12,15,8,53.33
+56,55,Louisiana-Lafayette,12,15,8,53.33
+57,55,Troy,12,15,8,53.33
+58,55,BYU,13,16,8,50.00
+59,55,Texas Tech,13,17,8,47.06
+60,55,Western Kentucky,14,17,8,47.06
+61,55,Western Michigan,13,18,8,44.44
+62,63,Texas State,12,12,9,75.00
+63,63,California,13,13,9,69.23
+64,63,Illinois,12,14,9,64.29
+65,63,Oklahoma,13,15,9,60.00
+66,63,San Diego State,14,16,9,56.25
+67,63,Syracuse,12,18,9,50.00
+68,63,Memphis,13,18,9,50.00
+69,63,South Alabama,12,18,9,50.00
+70,63,Texas A&M,13,19,9,47.37
+71,63,Vanderbilt,12,20,9,45.00
+72,63,Colorado,13,20,9,45.00
+73,63,Ohio State,13,21,9,42.86
+74,63,Mississippi,13,25,9,36.00
+75,63,North Carolina,14,27,9,33.33
+76,77,Louisiana Tech,13,16,10,62.50
+77,77,Wyoming,12,17,10,58.82
+78,77,UCF,12,17,10,58.82
+79,77,Purdue,12,19,10,52.63
+80,77,Old Dominion,12,19,10,52.63
+81,77,Notre Dame,13,20,10,50.00
+82,77,Boise State,13,22,10,45.45
+83,77,Utah,13,24,10,41.67
+84,77,Georgia,13,24,10,41.67
+85,77,Arizona,13,25,10,40.00
+86,77,Arizona State,13,26,10,38.46
+87,88,Marshall,13,15,11,73.33
+88,88,Duke,13,15,11,73.33
+89,88,Georgia State,13,17,11,64.71
+90,88,Eastern Michigan,12,18,11,61.11
+91,88,Washington,13,18,11,61.11
+92,88,Iowa,14,19,11,57.89
+93,88,Cincinnati,13,19,11,57.89
+94,88,Kent State,12,20,11,55.00
+95,88,Minnesota,13,20,11,55.00
+96,88,Georgia Southern,13,20,11,55.00
+97,88,Boston College,12,22,11,50.00
+98,88,Temple,14,23,11,47.83
+99,88,Air Force,14,23,11,47.83
+100,88,Kansas,12,26,11,42.31
+101,88,Arkansas State,13,27,11,40.74
+102,88,Louisiana-Monroe,13,30,11,36.67
+103,104,Penn State,13,18,12,66.67
+104,104,Colorado State,13,21,12,57.14
+105,104,Tulsa,13,21,12,57.14
+106,104,UTSA,12,21,12,57.14
+107,104,Miami (Ohio),12,22,12,54.55
+108,104,Charlotte,12,24,12,50.00
+109,104,Clemson,15,26,12,46.15
+110,104,Iowa State,12,27,12,44.44
+111,104,Louisville,13,27,12,44.44
+112,113,Appalachian State,13,19,13,68.42
+113,113,Southern Mississippi,14,20,13,65.00
+114,113,Florida Atlantic,12,22,13,59.09
+115,113,Baylor,13,22,13,59.09
+116,113,Rice,12,23,13,56.52
+117,113,Mississippi State,13,23,13,56.52
+118,113,UTEP,12,24,13,54.17
+119,113,Washington State,13,25,13,52.00
+120,113,Hawai'i,13,26,13,50.00
+121,113,Army,12,38,13,34.21
+122,123,Utah State,13,25,14,56.00
+123,123,North Texas,12,25,14,56.00
+124,123,Georgia Tech,12,36,14,38.89
+125,126,Northern Illinois,14,27,17,62.96
+126,126,SMU,12,31,17,54.84
+127,128,Middle Tennessee,13,24,19,79.17

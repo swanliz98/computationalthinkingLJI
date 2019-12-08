@@ -1,0 +1,131 @@
+,Rank,Name,G,Sacks,Sack Yards,Sacks/G
+0,1,New Mexico,3,0.0,0,0.00
+1,2,Air Force,3,1.0,3,0.33
+2,2,UAB,3,1.0,6,0.33
+3,2,Duke,3,1.0,8,0.33
+4,2,Georgia,4,1.0,9,0.25
+5,6,Utah State,3,2.0,7,0.67
+6,6,Texas Tech,3,2.0,8,0.67
+7,6,Western Kentucky,3,2.0,12,0.67
+8,6,Oregon State,3,2.0,12,0.67
+9,6,Utah,4,2.0,13,0.50
+10,6,Rutgers,3,2.0,13,0.67
+11,6,Oklahoma,3,2.0,17,0.67
+12,13,Baylor,3,3.0,10,1.00
+13,13,Boston College,4,3.0,13,0.75
+14,13,Wyoming,4,3.0,14,0.75
+15,13,Georgia Southern,3,3.0,16,1.00
+16,13,Kansas State,3,3.0,19,1.00
+17,13,Navy,2,3.0,19,1.50
+18,13,Iowa State,3,3.0,21,1.00
+19,13,San Jose State,3,3.0,23,1.00
+20,13,Clemson,4,3.0,33,0.75
+21,22,Michigan State,4,4.0,19,1.00
+22,22,Oklahoma State,4,4.0,19,1.00
+23,22,Notre Dame,3,4.0,21,1.33
+24,22,Purdue,3,4.0,21,1.33
+25,22,Memphis,3,4.0,22,1.33
+26,22,Alabama,4,4.0,24,1.00
+27,22,Wake Forest,4,4.0,25,1.00
+28,22,Temple,3,4.0,25,1.33
+29,22,Eastern Michigan,4,4.0,26,1.00
+30,22,SMU,4,4.0,26,1.00
+31,22,North Carolina State,4,4.0,28,1.00
+32,22,Marshall,3,4.0,30,1.33
+33,22,Louisiana-Monroe,3,4.0,31,1.33
+34,22,Auburn,4,4.0,32,1.00
+35,22,Bowling Green,4,4.0,32,1.00
+36,22,Iowa,3,4.0,43,1.33
+37,38,Washington,4,5.0,14,1.25
+38,38,Arizona,3,5.0,18,1.67
+39,38,Florida,4,5.0,24,1.25
+40,38,Coastal Carolina,4,5.0,25,1.25
+41,38,Maryland,3,5.0,28,1.67
+42,38,Arkansas,4,5.0,29,1.25
+43,38,Washington State,4,5.0,32,1.25
+44,38,Tulane,4,5.0,33,1.25
+45,38,Army,4,5.0,34,1.25
+46,38,Appalachian State,3,5.0,34,1.67
+47,38,Louisiana-Lafayette,4,5.0,37,1.25
+48,38,Wisconsin,3,5.0,37,1.67
+49,38,USC,4,5.0,38,1.25
+50,38,Buffalo,4,5.0,38,1.25
+51,38,Colorado,4,5.0,41,1.25
+52,53,Troy,3,6.0,28,2.00
+53,53,Toledo,3,6.0,31,2.00
+54,53,Penn State,3,6.0,33,2.00
+55,53,Texas A&M,4,6.0,36,1.50
+56,53,Kansas,4,6.0,39,1.50
+57,53,Hawai'i,4,6.0,46,1.50
+58,53,Southern Mississippi,4,6.0,51,1.50
+59,53,Northwestern,3,6.0,52,2.00
+60,61,Ohio State,4,7.0,29,1.75
+61,61,Kentucky,4,7.0,32,1.75
+62,61,UCF,4,7.0,37,1.75
+63,61,Florida International,4,7.0,37,1.75
+64,61,Western Michigan,4,7.0,38,1.75
+65,61,Indiana,4,7.0,38,1.75
+66,61,Missouri,4,7.0,40,1.75
+67,61,Charlotte,4,7.0,42,1.75
+68,61,Texas,4,7.0,42,1.75
+69,61,Virginia,4,7.0,46,1.75
+70,61,Virginia Tech,3,7.0,46,2.33
+71,61,LSU,4,7.0,50,1.75
+72,61,Colorado State,4,7.0,51,1.75
+73,61,Central Michigan,4,7.0,54,1.75
+74,61,East Carolina,4,7.0,54,1.75
+75,61,San Diego State,4,7.0,82,1.75
+76,77,Louisiana Tech,4,8.0,37,2.00
+77,77,Oregon,4,8.0,49,2.00
+78,77,West Virginia,4,8.0,54,2.00
+79,77,Vanderbilt,3,8.0,58,2.67
+80,77,TCU,3,8.0,60,2.67
+81,77,Georgia State,4,8.0,61,2.00
+82,77,Michigan,3,8.0,64,2.67
+83,84,Tennessee,4,9.0,51,2.25
+84,84,Pittsburgh,4,9.0,51,2.25
+85,84,Connecticut,3,9.0,51,3.00
+86,84,Mississippi State,4,9.0,54,2.25
+87,84,North Texas,4,9.0,60,2.25
+88,84,Georgia Tech,3,9.0,61,3.00
+89,84,UTEP,3,9.0,70,3.00
+90,84,Ohio,4,9.0,71,2.25
+91,92,Stanford,4,10.0,45,2.50
+92,92,Mississippi,4,10.0,55,2.50
+93,92,Fresno State,3,10.0,56,3.33
+94,92,Nebraska,4,10.0,57,2.50
+95,92,Nevada,4,10.0,59,2.50
+96,92,BYU,4,10.0,59,2.50
+97,92,Middle Tennessee,3,10.0,60,3.33
+98,92,Cincinnati,3,10.0,61,3.33
+99,92,Rice,4,10.0,62,2.50
+100,92,South Carolina,4,10.0,64,2.50
+101,92,Northern Illinois,3,10.0,64,3.33
+102,92,South Florida,3,10.0,66,3.33
+103,92,UCLA,4,10.0,96,2.50
+104,105,Arizona State,4,11.0,44,2.75
+105,105,UNLV,3,11.0,59,3.67
+106,105,Florida State,4,11.0,61,2.75
+107,105,South Alabama,4,11.0,68,2.75
+108,105,Miami (Ohio),4,11.0,73,2.75
+109,105,Arkansas State,4,11.0,73,2.75
+110,105,Minnesota,3,11.0,81,3.67
+111,105,Florida Atlantic,4,11.0,85,2.75
+112,105,Ball State,4,11.0,85,2.75
+113,114,UTSA,4,12.0,48,3.00
+114,114,Houston,4,12.0,50,3.00
+115,114,Kent State,4,12.0,63,3.00
+116,114,Old Dominion,3,12.0,66,4.00
+117,114,Massachusetts,4,12.0,80,3.00
+118,114,Illinois,4,12.0,85,3.00
+119,120,Louisville,4,13.0,67,3.25
+120,120,Boise State,4,13.0,67,3.25
+121,122,California,4,14.0,68,3.50
+122,122,New Mexico State,4,14.0,98,3.50
+123,122,Texas State,4,14.0,105,3.50
+124,125,Liberty,4,15.0,110,3.75
+125,126,North Carolina,4,16.0,95,4.00
+126,126,Tulsa,4,16.0,112,4.00
+127,128,Syracuse,4,17.0,110,4.25
+128,129,Miami (Florida),4,18.0,110,4.50
+129,130,Akron,4,20.0,101,5.00

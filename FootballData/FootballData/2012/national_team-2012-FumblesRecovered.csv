@@ -1,0 +1,125 @@
+,Rank,Name,G,Opponent Fumbles,Fumbles Recovered,Fumble Recovery %
+0,1,Boise State,13,27,18,66.67
+1,2,Georgia,14,36,17,47.22
+2,2,UCLA,14,29,17,58.62
+3,2,San Jose State,13,28,17,60.71
+4,5,Washington,13,32,16,50.00
+5,5,Northwestern,13,28,16,57.14
+6,5,Rice,13,28,16,57.14
+7,5,Missouri,12,28,16,57.14
+8,5,UCF,14,26,16,61.54
+9,5,Middle Tennessee,12,25,16,64.00
+10,5,Louisiana Tech,12,24,16,66.67
+11,5,SMU,13,24,16,66.67
+12,5,Maryland,12,23,16,69.57
+13,14,Arizona,13,30,15,50.00
+14,14,Oregon,13,26,15,57.69
+15,14,Tulsa,14,24,15,62.50
+16,14,Memphis,12,23,15,65.22
+17,14,UTSA,10,23,15,65.22
+18,14,LSU,13,22,15,68.18
+19,14,Kent State,14,22,15,68.18
+20,14,Mississippi State,13,20,15,75.00
+21,22,Utah,12,32,14,43.75
+22,22,Rutgers,13,26,14,53.85
+23,22,New Mexico,13,25,14,56.00
+24,22,Colorado State,12,23,14,60.87
+25,22,Wyoming,12,22,14,63.64
+26,22,Kansas State,13,22,14,63.64
+27,22,Troy,12,22,14,63.64
+28,29,Fresno State,13,25,13,52.00
+29,29,Idaho,12,22,13,59.09
+30,29,USC,13,21,13,61.90
+31,29,Mississippi,13,20,13,65.00
+32,29,Louisville,13,19,13,68.42
+33,29,Iowa,12,19,13,68.42
+34,29,Temple,11,15,13,86.67
+35,36,Iowa State,13,25,12,48.00
+36,36,Cincinnati,13,24,12,50.00
+37,36,Nevada,13,24,12,50.00
+38,36,UTEP,12,23,12,52.17
+39,36,Northern Illinois,14,22,12,54.55
+40,36,San Diego State,13,22,12,54.55
+41,36,Wake Forest,12,22,12,54.55
+42,36,Bowling Green,13,21,12,57.14
+43,36,Stanford,14,21,12,57.14
+44,36,Houston,12,21,12,57.14
+45,36,Duke,13,20,12,60.00
+46,36,Penn State,12,19,12,63.16
+47,36,Colorado,12,18,12,66.67
+48,36,UAB,12,16,12,75.00
+49,36,Ohio,13,16,12,75.00
+50,36,East Carolina,13,15,12,80.00
+51,36,Texas State,12,14,12,85.71
+52,53,Illinois,12,28,11,39.29
+53,53,Miami (Florida),12,24,11,45.83
+54,53,Alabama,14,24,11,45.83
+55,53,Michigan,13,22,11,50.00
+56,53,Oklahoma State,13,22,11,50.00
+57,53,Navy,13,22,11,50.00
+58,53,Oregon State,13,21,11,52.38
+59,53,Florida State,14,20,11,55.00
+60,53,TCU,13,20,11,55.00
+61,53,Syracuse,13,20,11,55.00
+62,53,Purdue,13,20,11,55.00
+63,53,Auburn,12,15,11,73.33
+64,65,Clemson,13,25,10,40.00
+65,65,Nebraska,14,21,10,47.62
+66,65,Hawai'i,12,21,10,47.62
+67,65,Louisiana-Monroe,13,20,10,50.00
+68,65,West Virginia,13,20,10,50.00
+69,65,Arkansas State,13,19,10,52.63
+70,65,South Alabama,13,19,10,52.63
+71,65,BYU,13,19,10,52.63
+72,65,Florida,13,16,10,62.50
+73,65,Toledo,13,16,10,62.50
+74,75,Boston College,12,29,9,31.03
+75,75,California,12,28,9,32.14
+76,75,South Carolina,13,26,9,34.62
+77,75,Western Michigan,12,23,9,39.13
+78,75,Western Kentucky,13,21,9,42.86
+79,75,Florida Atlantic,12,20,9,45.00
+80,75,Eastern Michigan,12,20,9,45.00
+81,75,Marshall,12,19,9,47.37
+82,75,Arizona State,13,18,9,50.00
+83,75,Georgia Tech,14,18,9,50.00
+84,75,North Carolina,12,18,9,50.00
+85,75,Kansas,12,18,9,50.00
+86,75,Tulane,12,18,9,50.00
+87,88,Louisiana-Lafayette,13,23,8,34.78
+88,88,Florida International,12,20,8,40.00
+89,88,Akron,12,19,8,42.11
+90,88,UNLV,13,19,8,42.11
+91,88,Virginia Tech,13,19,8,42.11
+92,88,Air Force,13,19,8,42.11
+93,88,Kentucky,12,18,8,44.44
+94,88,North Texas,12,15,8,53.33
+95,88,Virginia,12,15,8,53.33
+96,88,North Carolina State,13,12,8,66.67
+97,98,Vanderbilt,13,25,7,28.00
+98,98,Baylor,13,20,7,35.00
+99,98,Wisconsin,14,19,7,36.84
+100,98,Minnesota,13,19,7,36.84
+101,98,Notre Dame,13,17,7,41.18
+102,98,Pittsburgh,13,17,7,41.18
+103,98,Ohio State,12,15,7,46.67
+104,98,Southern Mississippi,12,14,7,50.00
+105,98,South Florida,12,12,7,58.33
+106,98,Army,12,10,7,70.00
+107,98,Ball State,13,9,7,77.78
+108,109,Washington State,12,18,6,33.33
+109,109,Texas,13,18,6,33.33
+110,109,Connecticut,12,17,6,35.29
+111,109,Arkansas,12,16,6,37.50
+112,109,Massachusetts,12,16,6,37.50
+113,109,Indiana,12,15,6,40.00
+114,109,Michigan State,13,13,6,46.15
+115,109,Utah State,13,11,6,54.55
+116,117,Tennessee,12,19,5,26.32
+117,117,New Mexico State,12,17,5,29.41
+118,117,Central Michigan,13,11,5,45.45
+119,120,Texas A&M,13,14,4,28.57
+120,121,Texas Tech,13,14,3,21.43
+121,121,Buffalo,12,10,3,30.00
+122,121,Oklahoma,13,7,3,42.86
+123,124,Miami (Ohio),12,10,2,20.00
